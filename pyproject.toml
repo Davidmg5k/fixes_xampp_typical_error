@@ -1,0 +1,9 @@
+[project]
+name = "fix-xampp"
+version = "0.1.0"
+description = "This resolves a typical xampp error: ‘MYSQL Shutdow unexpected’"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pyinstaller>=6.20.0",
+]
